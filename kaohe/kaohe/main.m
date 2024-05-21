@@ -14,7 +14,7 @@
 #import "calssA.h"
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        NSLog(@"try my best");
+        NSLog(@"try my bestddddd");
     }
     return 0;
 }
